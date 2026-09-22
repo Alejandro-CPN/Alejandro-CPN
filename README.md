@@ -14,12 +14,12 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-original.svg" height="40" alt="Excel" title="Excel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" height="40" alt="Excel" title="Excel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Spyder" title="Spyder" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI" title="Power BI" />
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" alt="ChatGPT" title="ChatGPT" />
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" height="40" alt="Claude" title="Claude" />
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="40" alt="Gemini" title="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-CC99CC?style=for-the-badge&logo=anthropic&logoColor=white" height="35" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="35" alt="Gemini" />
 </div>
 
 ---
