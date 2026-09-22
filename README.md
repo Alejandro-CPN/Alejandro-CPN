@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Foto de perfil ampliada a 220px -->
+  <!-- Foto de perfil -->
   <img src="Screenshot_2026-02-25-11-16-39-422_com.instagram.android.jpg" alt="Alejandro CPN" width="220" height="220" style="border-radius: 50%;">
   
   ### ¡Hola 👋, soy Alejandro!
@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Spyder" title="Spyder" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI" title="Power BI" />
   <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" alt="ChatGPT" title="ChatGPT" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="Claude" title="Claude" />
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" height="40" alt="Claude" title="Claude" />
   <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="40" alt="Gemini" title="Gemini" />
 </div>
 
@@ -34,9 +34,8 @@
 ### 🏆 Certificado Destacado en Análisis de Datos
 
 <p align="left">
-  <!-- Si tu certificado es una imagen JPG/PNG ponla aquí. Si es PDF y GitHub no muestra la miniatura, asegúrate de subir una captura del certificado -->
-  <a href="certificado analisis de datos ipsdatax.pdf">
-    <img src="certificado analisis de datos ipsdatax.pdf" width="300" alt="Certificado IPSDatax" />
+  <a href="certificado analisis de datos ipsdatax.pdf" target="_blank">
+    <img src="ipsdatax.png" width="350" alt="Certificado IPSDatax" style="border-radius: 8px;" />
   </a>
 </p>
 
